@@ -1,1 +1,0 @@
-todays topic :  https://devops-cicd.hashnode.dev/jenkins-integrated-with-nexus
