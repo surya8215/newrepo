@@ -1,0 +1,1 @@
+todays topic :  https://devops-cicd.hashnode.dev/how-to-write-your-first-pipeline-in-jenkinsfile
